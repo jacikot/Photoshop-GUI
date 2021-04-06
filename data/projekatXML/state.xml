@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<image width="1050" height="700">
+	<layers>
+		<layer active="1" changeable="1">
+			<opacity>50</opacity>
+			<path>D:\POOP\tj180023d\slike\folder\Layers\slika5.bmp</path>
+		</layer>
+		<layer active="1" changeable="1">
+			<opacity>80</opacity>
+			<path>D:\POOP\tj180023d\slike\folder\Layers\mesec.bmp</path>
+		</layer>
+	</layers>
+	<selections>
+		<selection changeable="1">
+			<name>selek</name>
+			<rectangles>
+				<rectangle>
+					<x>10</x>
+					<y>10</y>
+					<w>100</w>
+					<h>100</h>
+				</rectangle>
+			</rectangles>
+		</selection>
+	</selections>
+	<functions>
+		<path>D:\POOP\tj180023d\slike\folder\Functions\funkcija.fun</path>
+	</functions>
+</image>
+
